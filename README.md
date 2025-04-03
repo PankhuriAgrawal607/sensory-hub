@@ -1,4 +1,6 @@
-Requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+It is a supportive space dedicated to individuals with autism and ADHD. It offer resources, tips, and a community that celebrates neurodiversity, empowering you to embrace your unique journey.
+
+
 
 Follow these steps:
 
